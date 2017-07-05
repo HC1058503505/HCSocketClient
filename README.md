@@ -1,0 +1,2 @@
+# HCSocketClient
+HCSocketClient ProtocolBuffer
